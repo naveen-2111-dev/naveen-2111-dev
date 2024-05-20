@@ -1,3 +1,7 @@
+# Hi This is Naveen Rajan M 
+
+A passionate full stack developer sharing about my journey and learnings in tech<br/>
+Pursuing Computer Science at SSCE, Bangalore<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveen_rajan_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Naveen Rajan M) 
