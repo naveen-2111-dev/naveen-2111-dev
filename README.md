@@ -43,8 +43,7 @@ Connect with me on my social platforms:
 
 ---
 
-## 📊 **GitHub Stats:**
+## 📊 **GitHub Stats:** 🐍
 
-Check out my contributions and projects on GitHub!  
 ![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen-2111-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
