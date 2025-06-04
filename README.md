@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Hey, I'm Naveen Rajan M!
+# 🚀 Hey, I'm Naveen Manikandaraja!
 
 ## Web3 Enthusiast | Blockchain Developer | CS Student 
 
