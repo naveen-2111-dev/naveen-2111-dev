@@ -1,33 +1,71 @@
 <div align="center">
-  
-# 🚀 Hey, I'm Naveen Manikandaraja!
 
-## Web3 Enthusiast | Blockchain Developer | CS Student 
+```
+███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
+████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
+██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
+██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
+██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
+╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
+```
 
-I'm a passionate **Web3.0 Developer** dedicated to shaping the future of the internet using **blockchain technology**. My focus is on **decentralized applications (dApps), smart contracts**, and empowering users in the digital world. Currently, I'm studying **Computer Science at SSCE, Bangalore**, continuously learning and refining my skills to stay ahead in Web3 development. 
+### `< Full-Stack Developer />`
+#### Building secure, scalable applications — one commit at a time.
 
-I aim to contribute to the evolution of **DeFi, NFTs, DAOs**, and other groundbreaking Web3 innovations! 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Next.js+%7C+NestJS+%7C+TypeScript;React+%7C+Node.js+%7C+PostgreSQL;Trainee+SWE+%40+GWC+Data.ai;Algorand+ABC+Club+Lead+%40+SSCE;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
-
-## Tech Stack & Tools
-
-| Category        | Technologies |
-|---------------|--------------------------------------------------------|
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Web3 & Blockchain** | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white), ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white), ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white), ![Hardhat](https://img.shields.io/badge/-Hardhat-FCC624?style=flat-square&logo=hardhat&logoColor=black), ![Foundry](https://img.shields.io/badge/-Foundry-5C2D91?style=flat-square&logo=foundry&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black), ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Version Control & Others** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white), ![SSH](https://img.shields.io/badge/-SSH-2C2C2C?style=flat-square&logo=gnome-terminal&logoColor=white) |
+</div>
 
 ---
 
-## GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen-2111-dev&show_icons=true&theme=radical)
+## About Me
+
+```ts
+const naveen = {
+  role:        "Full-Stack Developer",
+  company:     "GWC Data.ai  —  Trainee Software Engineer",
+  college:     "Sri Sairam College of Engineering, Bengaluru",
+  club:        "Algorand ABC Club Lead @SSCE",
+  learning:    ["NestJS", "DOMO", "System Design", "Cloud"],
+  talkTo:      ["Next.js", "TypeScript", "git", "Node.js", "Linux"],
+  portfolio:   "github.com/naveen-2111-dev",
+  contact:     "rajan.naveen@gwcdata.ai",
+};
+```
 
 ---
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-rajan-m-60361a259) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.naveen.rajan.m@gmail.com)
+## Tech Stack
 
-Always open to collaboration and discussions about **Web3, Blockchain, and Decentralized Technologies!** Let's build something amazing together. 🔥
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=react" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=ts" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=js" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=redux" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=html" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=css" width="65" style="margin:6px"/>
+
+<img src="https://skillicons.dev/icons?i=nestjs" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=express" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=python" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=apollo" width="65" style="margin:6px"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="65" style="margin:6px"/>
+
+<img src="https://skillicons.dev/icons?i=docker" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=git" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=linux" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=bash" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=postman" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=figma" width="65" style="margin:6px"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="65" style="margin:6px"/>
+
 </div>
