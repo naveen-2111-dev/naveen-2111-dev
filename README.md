@@ -66,6 +66,4 @@ const naveen = {
 <img src="https://skillicons.dev/icons?i=bash" width="65" style="margin:6px"/>
 <img src="https://skillicons.dev/icons?i=postman" width="65" style="margin:6px"/>
 <img src="https://skillicons.dev/icons?i=figma" width="65" style="margin:6px"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="65" style="margin:6px"/>
-
 </div>
